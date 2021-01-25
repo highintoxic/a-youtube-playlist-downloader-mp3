@@ -1,0 +1,35 @@
+{
+  "name": "my-music-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "highintoxic",
+    "url": "https://github.com/highintoxic",
+    "discord": "『ΣO』highintoxic#0420",
+    "server": "https://discord.gg/tT2c3UxsaN"
+  },
+  "engines": {
+    "node": "14.13.0",
+    "vscode": "^1.22.0"
+  },
+  "homepage": "",
+  "readme": "",
+  "repository": {
+    "directory": "",
+    "type": "",
+    "url": ""
+  },
+  "private": false,
+  "scripts": {
+    "start": "node index.js",
+    "debug": "nodemon index.js --ext js --delay 2"
+  },
+  "dependencies": {
+    "beautify": "^0.0.8",
+    "fluent-ffmpeg": "^2.1.2",
+    "make-dir": "^3.1.0",
+    "ytdl-core": "^4.4.4",
+    "ytpl": "^2.0.4"
+  }
+}
