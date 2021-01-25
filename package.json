@@ -13,13 +13,8 @@
     "node": "14.13.0",
     "vscode": "^1.22.0"
   },
-  "homepage": "",
-  "readme": "",
-  "repository": {
-    "directory": "",
-    "type": "",
-    "url": ""
-  },
+  "homepage": "https://github.com/highintoxic/a-youtube-playlist-downloader-mp3",
+  "readme": "https://github.com/highintoxic/a-youtube-playlist-downloader-mp3#readme",
   "private": false,
   "scripts": {
     "start": "node index.js",
